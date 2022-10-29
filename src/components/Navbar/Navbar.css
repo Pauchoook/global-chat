@@ -1,0 +1,9 @@
+.navbar-btn {
+   color: white !important;
+}
+.navbar-btn:hover {
+   background-color: rgb(163, 121, 230) !important;
+}
+.navbar-grid {
+   justify-content: end;
+}
